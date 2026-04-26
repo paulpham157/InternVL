@@ -1,7 +1,7 @@
 open_clip_torch>=0.2.1
 opencv-python
 peft>=0.6.2
-protobuf==3.20.3
+protobuf==5.29.6
 pycocoevalcap
 pyyaml
 scikit-learn>=1.0,<2
@@ -11,6 +11,6 @@ task_adaptation
 tensorflow==2.11.0
 termcolor
 tqdm>=2
-transformers>=4.32.0
+transformers>=4.57.6
 webdataset>=0.2.31
 yacs
